@@ -1,0 +1,18 @@
+{
+  "status": true,
+  "message": "login successfully",
+  "data": {
+    "merchant_created": true,
+    "merchant_processed": true,
+    "merchant_verified": true,
+    "merchant_rejected_reason": "",
+    "milestone_created": true,
+    "milestone_processed": true,
+    "milestone_verified": true,
+    "milestone_rejected_reason": "",
+    "user_token": "opoopoopo1234",
+    "user_is_owner": true,
+    "user_verified": true,
+    "user_verified_message": "User telah ter-verifikasi"
+  }
+}
